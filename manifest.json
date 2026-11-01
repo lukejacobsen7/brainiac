@@ -1,0 +1,10 @@
+{
+	"id": "brainiac",
+	"name": "Brainiac",
+	"version": "1.0.0",
+	"minAppVersion": "1.7.2",
+	"description": "Visualize your vault as a glowing 3D brain of notes and paragraphs, with galaxy, calendar, clock, stream and other views of what you wrote and when.",
+	"author": "Luke Jacobsen",
+	"isDesktopOnly": true,
+	"authorUrl": "https://github.com/lukejacobsen7"
+}

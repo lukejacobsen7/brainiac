@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".", "module": "ESNext", "target": "ES2021", "moduleResolution": "bundler",
+		"strict": true, "noImplicitAny": true, "skipLibCheck": true, "isolatedModules": true,
+		"lib": ["DOM", "ES2021"], "types": ["node"]
+	},
+	"include": ["src/**/*.ts"]
+}

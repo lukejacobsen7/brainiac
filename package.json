@@ -1,0 +1,29 @@
+{
+  "name": "brainiac",
+  "version": "1.0.0",
+  "description": "Visualize your vault as a glowing 3D brain of notes and paragraphs, with galaxy, calendar, clock, stream and other views of what you wrote and when.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc --noEmit -p . && node esbuild.config.mjs production",
+    "lint": "eslint src"
+  },
+  "author": "Luke Jacobsen",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@types/node": "^26.6.6",
+    "@types/three": "^0.170.0",
+    "builtin-modules": "^5.5.0",
+    "esbuild": "^0.25.12",
+    "eslint": "^9.39.5",
+    "eslint-plugin-obsidianmd": "^0.4.2",
+    "obsidian": "^1.14.4",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.72.1"
+  },
+  "dependencies": {
+    "three": "^0.170.0",
+    "umap-js": "^1.4.0"
+  }
+}
