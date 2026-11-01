@@ -1,4 +1,8 @@
-# Brainiac
+<p align="center"><img src="assets/logo.png" width="160" alt="Brainiac logo"></p>
+
+<h1 align="center">Brainiac</h1>
+
+<p align="center">Your Obsidian vault as a glowing 3D brain.</p>
 
 See your whole vault as a glowing 3D brain. Every note is a bright dot, and every paragraph inside it is a smaller dot next to it, so a vault with 2,000 notes becomes a brain of 100,000+ points you can spin, search and replay over time.
 
