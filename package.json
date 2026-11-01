@@ -1,6 +1,6 @@
 {
   "name": "brainiac",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Visualize your vault as a glowing 3D brain of notes and paragraphs, with galaxy, calendar, clock, stream and other views of what you wrote and when.",
   "main": "main.js",
   "scripts": {
